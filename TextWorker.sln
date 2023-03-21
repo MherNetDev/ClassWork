@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextWorker", "TextWorker\TextWorker.csproj", "{A1044D95-4E7F-442A-AAB7-76149E2D50BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextWorker", "TextWorker\TextWorker.csproj", "{A1044D95-4E7F-442A-AAB7-76149E2D50BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{42FD7225-1AF7-42F1-82EB-E67EA2907B3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{42FD7225-1AF7-42F1-82EB-E67EA2907B3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pol", "Pol\Pol.csproj", "{321620B7-C6D3-4669-9CD2-18E835D392F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pol", "Pol\Pol.csproj", "{321620B7-C6D3-4669-9CD2-18E835D392F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balance", "Balance\Balance.csproj", "{CAE7B89B-FAC1-4582-9165-4D74D1180EE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Balance", "Balance\Balance.csproj", "{CAE7B89B-FAC1-4582-9165-4D74D1180EE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.csproj", "{0D17F300-6276-4C0D-8F19-A6BB8EBE7FEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic", "Generic\Generic.csproj", "{0D17F300-6276-4C0D-8F19-A6BB8EBE7FEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-3", "21-3\21-3.csproj", "{71EA5D59-CA91-44DA-8CF4-B43F95EF8EC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass21-3", "GenericClass21-3\GenericClass21-3.csproj", "{15DA774A-B66A-4F26-8C7C-2148568C88F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{0D17F300-6276-4C0D-8F19-A6BB8EBE7FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D17F300-6276-4C0D-8F19-A6BB8EBE7FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D17F300-6276-4C0D-8F19-A6BB8EBE7FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EA5D59-CA91-44DA-8CF4-B43F95EF8EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EA5D59-CA91-44DA-8CF4-B43F95EF8EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EA5D59-CA91-44DA-8CF4-B43F95EF8EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EA5D59-CA91-44DA-8CF4-B43F95EF8EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DA774A-B66A-4F26-8C7C-2148568C88F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DA774A-B66A-4F26-8C7C-2148568C88F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DA774A-B66A-4F26-8C7C-2148568C88F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DA774A-B66A-4F26-8C7C-2148568C88F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
