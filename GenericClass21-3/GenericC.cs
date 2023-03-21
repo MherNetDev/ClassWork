@@ -3,12 +3,22 @@
 namespace GenericClass21_3
 {
     class MyGenericclass<T> {
-        private T member;
-        public MyGenericclass(T value) {
 
+        public T data { get; set; }
+        public void Meth<T>(T value) {
 
-            member = value;
+            Console.WriteLine(value.GetType());
+            Console.WriteLine("int");
         
+        
+        }
+        public void Meth2<Y>(Y value)
+        {
+
+            Console.WriteLine("string");
+
+
+
         }
 
 
